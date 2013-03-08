@@ -1,0 +1,1 @@
+Parser written in Prolog.

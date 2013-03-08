@@ -1,1 +1,0 @@
-A parserer written in Prolog.
